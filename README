@@ -1,0 +1,9 @@
+This is basic symfony version 4.4 project that does CRUD operations 
+
+- at local set up virtual host(http://symfony-crud.local/) and goto http://symfony-crud.local/
+- at first page it allows to create task
+- same page shows listing of task
+- you can switch task status as completed and not completed
+- completed tasks are shown as striked 
+- you can also delete task
+

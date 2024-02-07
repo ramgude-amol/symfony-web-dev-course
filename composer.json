@@ -91,7 +91,6 @@
         "symfony/maker-bundle": "^1.50",
         "symfony/phpunit-bridge": "^7.0",
         "symfony/stopwatch": "6.2.*",
-        "symfony/test-pack": "*",
         "symfony/web-profiler-bundle": "6.2.*"
     }
 }
