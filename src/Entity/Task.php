@@ -47,4 +47,9 @@ class Task
 
         return $this;
     }
+
+    public function getStatus()
+    {
+        return $this->status;
+    }
 }
